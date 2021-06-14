@@ -1,0 +1,1 @@
+- AI developer in conputer vision, natural language processing, fMRI and EEG anlaysis.
