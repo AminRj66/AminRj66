@@ -15,7 +15,7 @@
 
 My name is **`Amin Ranjbar`**, and I am an experienced data scientist with a strong mathematical background and over 8 years of expertise in data processing, feature engineering, and predictive modeling. My involvement in the development of AI-based products in the field of decentralized finance (DeFi) has provided me with valuable insights and knowledge. Additionally, I have also gained significant experience working with a wide range of medical data, including fMRI (functional magnetic resonance imaging), VEP (visual evoked potentials), and MRI (magnetic resonance imaging). 
 
-- 🔭 I’m currently working as a **Senior Data Scientist** at [Bitex](https://bitex.ir/) on **AI-based financial trading**.
+- 🔭 I’m currently working as a **Senior Data Scientist** at [Bitex](https://bitex.ir/) in the area of **AI-based financial trading**.
 - 🎓 Studied Electrical Engineering at [Amirkabir University of Technology](https://www.aut.ac.ir)
 - 🏡 Live in **Tehran, Iran**
 
