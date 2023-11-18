@@ -1,56 +1,106 @@
+<!-- number of visitors -->
+![](https://komarev.com/ghpvc/?username=hamiGH&label=Visitors+Count&color=red&style=flat-square)
+<!-- <img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="150"> -->
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Amin Ranjbar</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AminRj66?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AminRj66?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AminRj66.repoName) <img src="https://komarev.com/ghpvc/?username=AminRj66" alt="AminRj66" />
 
-## About Me :
+### Hi there 👋
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
 
-- 🏢 I am currently working as a **Senior Data Scientist** at [Bitex](https://bitex.ir/)
+<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+My name is **`Amin Ranjbar`**, and I am an experienced data scientist with a strong mathematical background and over 8 years of expertise in data processing, feature engineering, and predictive modeling. My involvement in the development of AI-based products in the field of decentralized finance (DeFi) has provided me with valuable insights and knowledge. Additionally, I have also gained significant experience working with a wide range of medical data, including fMRI (functional magnetic resonance imaging), VEP (visual evoked potentials), and MRI (magnetic resonance imaging). 
+
+- 🔭 I’m currently working as a **Senior Data Scientist** at [Bitex](https://bitex.ir/) on **AI-based financial trading**.
 - 🎓 Studied Electrical Engineering at [Amirkabir University of Technology](https://www.aut.ac.ir)
 - 🏡 Live in **Tehran, Iran**
 
-<br>
+- 🌱 I’m currently learning MLOPS techniques.
 
-## Connect with me ☕ :
+- :nerd_face: Always `learning new things`.
+
+- 👯 I’m looking to collaborate on AI advancements.
+
+- 💬 Ask me about Deep Learning, Computational Neuroscience, NLP, Computer Vision, Financial Trading...
+
+
+## <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 
 <br>
 
 [![@a.min.rj66](https://img.icons8.com/fluency/48/000000/instagram-new.png "@a.min.rj66")](https://www.instagram.com/a.min.rj66/) [![@amin-ranjbar](https://img.icons8.com/fluency/48/000000/linkedin.png "@amin-ranjbar")](https://www.linkedin.com/in/amin-ranjbar) [![@amin.ranjbar1988@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "@amin.ranjbar1988@gmail.com")](amin.ranjbar1988@gmail.com)
 
 <br>
+<a href="https://www.youtube.com/watch?v=qJFWpdxd9kI"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## What I am Good at 👨🏻‍💻:
+### 🛠 Programming Languages:
 
-<br>
+<p>
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/sql--v2.png"/>
+<!-- <img src="https://skillicons.dev/icons?i=c"/> -->
+<!-- <img src="https://skillicons.dev/icons?i=cpp"/> -->
+<img src="https://skillicons.dev/icons?i=matlab"/>
+<img src="https://skillicons.dev/icons?i=bash"/>
+</p>
 
-<img src="https://img.icons8.com/color/python"/> <img src="https://img.icons8.com/color/tensorflow"/> <img src="https://img.icons8.com/color/git"/> <img src="https://img.icons8.com/color/docker"/> <img src="https://img.icons8.com/color/sql"/> <img src="https://img.icons8.com/color/bash"/> <img src="https://img.icons8.com/color/pandas"/> <img src="https://img.icons8.com/cotton/api"/> <img src="https://img.icons8.com/color/google-scholar"/>
+### 🛠 Frameworks and Tools:
 
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<!-- <img src="https://skillicons.dev/icons?i=keras"/> -->
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 
-## GitHub Stats 📈 :
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-<br>
+<img src="https://skillicons.dev/icons?i=flask"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AminRj66&theme=blue-green&card_width=420&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![Amin GitHub stats](https://github-readme-stats.vercel.app/api?username=AminRj66&theme=blue-green&card_width=420)](https://github.com/AminRj66/github-readme-stats)
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
 
-<br>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminRj66&theme=blue-green&card_width=345)](https://github.com/AminRj66/github-readme-stats)[![Amin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AminRj66&theme=blue-green)](https://github.com/AminRj66/github-readme-stats)
+<!-- ### 🌐Socials -->
 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/amin-ranjbar/) -->
 
-<br>
-## GitHub Thropies 🏆 :
+<a href="https://www.youtube.com/watch?v=qJFWpdxd9kI"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<br>
+### 🏆GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AminRj66&theme=matrix)](https://github.com/morzeta/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=AminRj66&theme=darkhub&no-frame=true&no-bg=false&margin-w=0)
 
-<br>
+<a href="https://www.youtube.com/watch?v=qJFWpdxd9kI"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Activity Graph 📊 :
+<!-- <p align="left"> -->
+<!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>###GitHub Stats:</b></i></p> -->
+### 📊GitHub Stats :
 
-<br>
+<!-- ![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminRj66&theme=dark&show_icons=true) -->
 
-[![Amin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AminRj66&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/AminRj66/github-readme-activity-graph)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AminRj66&theme=radical&hide_border=false)<br/> -->
 
----
+<!-- ![](http://github-readme-streak-stats.herokuapp.com?user=AminRj66&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/> -->
+
+| ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=AminRj66&show_icons=true&theme=tokyonight) | ![Amin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AminRj66&theme=tokyonight) |
+| --- | --- |
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminRj66&theme=tokyonight) -->
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminRj66&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+    <a href="https://wakatime.com/@Voko#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminRj66&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
