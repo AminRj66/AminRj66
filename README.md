@@ -33,7 +33,7 @@ My name is **`Amin Ranjbar`**, and I am an experienced data scientist with a str
 
 <br>
 
-[![@a.min.rj66](https://img.icons8.com/fluency/48/000000/instagram-new.png "@a.min.rj66")](https://www.instagram.com/a.min.rj66/) [![@amin-ranjbar](https://img.icons8.com/fluency/48/000000/linkedin.png "@amin-ranjbar")](https://www.linkedin.com/in/amin-ranjbar) [![@amin.ranjbar1988@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "@amin.ranjbar1988@gmail.com")](amin.ranjbar1988@gmail.com)
+[![@amin.ranjbar1988@gmail.com](https://img.icons8.com/fluency/48/000000/gmail.png "@amin.ranjbar1988@gmail.com")](amin.ranjbar1988@gmail.com)
 
 <br>
 <a href="https://www.youtube.com/watch?v=qJFWpdxd9kI"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
