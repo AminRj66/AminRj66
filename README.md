@@ -25,7 +25,7 @@ My name is **`Amin Ranjbar`**, and I am an experienced data scientist with a str
 
 - 👯 I’m looking to collaborate on AI advancements.
 
-- 💬 Ask me about Deep Learning, Computational Neuroscience, NLP, Computer Vision, Financial Prediction ...
+- 💬 Ask me about Deep Learning, Computational Neuroscience, NLP, Computer Vision, Financial Data Analysis ...
 
 
 ## <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
