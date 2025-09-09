@@ -18,11 +18,6 @@ My name is **`Amin Ranjbar`**, and I am a data scientist with a strong mathemati
 - 🔭 I’m currently working as a **Senior Data Scientist**.
 - 🎓 Studied Electrical Engineering at [Amirkabir University of Technology](https://www.aut.ac.ir)
 - 🏡 Live in **Tehran, Iran**
-
-- 🌱 I’m currently learning MLOPS techniques.
-
-- :nerd_face: Always `learning new things`.
-
 - 👯 I’m looking to collaborate on AI advancements.
 
 - 💬 Ask me about Deep Learning, Computational Neuroscience, NLP, Computer Vision, Financial Data Analysis ...
