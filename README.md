@@ -4,10 +4,7 @@
 
 
 
-### Hi there 👋
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
-</p>
+### Hi there 
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
